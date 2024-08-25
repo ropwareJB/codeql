@@ -1,0 +1,79 @@
+nodes
+| TaintedPath.js:9:42:9:61 | req.params.userinput |
+| TaintedPath.js:9:42:9:61 | req.params.userinput |
+| TaintedPath.js:9:42:9:61 | req.params.userinput |
+| TaintedPath.js:9:42:9:61 | req.params.userinput |
+| TaintedPath.js:9:42:9:61 | req.params.userinput |
+| TaintedPath.js:9:42:9:61 | req.params.userinput |
+| TaintedPath.js:18:14:18:33 | req.params.userinput |
+| TaintedPath.js:18:14:18:33 | req.params.userinput |
+| TaintedPath.js:18:14:18:33 | req.params.userinput |
+| TaintedPath.js:18:14:18:33 | req.params.userinput |
+| TaintedPath.js:18:14:18:33 | req.params.userinput |
+| TaintedPath.js:18:14:18:33 | req.params.userinput |
+| TaintedPath.js:20:14:20:50 | [req.pa ... tatic"] |
+| TaintedPath.js:20:14:20:50 | [req.pa ... tatic"] |
+| TaintedPath.js:20:14:20:50 | [req.pa ... tatic"] |
+| TaintedPath.js:20:14:20:50 | [req.pa ... tatic"] |
+| TaintedPath.js:20:14:20:50 | [req.pa ... tatic"] |
+| TaintedPath.js:20:14:20:50 | [req.pa ... tatic"] |
+| TaintedPath.js:20:14:20:50 | [req.pa ... tatic"] |
+| TaintedPath.js:20:14:20:50 | [req.pa ... tatic"] |
+| TaintedPath.js:20:14:20:50 | [req.pa ... tatic"] |
+| TaintedPath.js:20:14:20:50 | [req.pa ... tatic"] |
+| TaintedPath.js:20:14:20:50 | [req.pa ... tatic"] |
+| TaintedPath.js:20:14:20:50 | [req.pa ... tatic"] |
+| TaintedPath.js:20:14:20:50 | [req.pa ... tatic"] |
+| TaintedPath.js:20:14:20:50 | [req.pa ... tatic"] |
+| TaintedPath.js:20:14:20:50 | [req.pa ... tatic"] |
+| TaintedPath.js:20:14:20:50 | [req.pa ... tatic"] |
+| TaintedPath.js:20:14:20:50 | [req.pa ... tatic"] |
+| TaintedPath.js:20:15:20:34 | req.params.userinput |
+| TaintedPath.js:20:15:20:34 | req.params.userinput |
+| TaintedPath.js:20:15:20:34 | req.params.userinput |
+| TaintedPath.js:20:15:20:34 | req.params.userinput |
+| TaintedPath.js:20:15:20:34 | req.params.userinput |
+edges
+| TaintedPath.js:9:42:9:61 | req.params.userinput | TaintedPath.js:9:42:9:61 | req.params.userinput |
+| TaintedPath.js:18:14:18:33 | req.params.userinput | TaintedPath.js:18:14:18:33 | req.params.userinput |
+| TaintedPath.js:20:15:20:34 | req.params.userinput | TaintedPath.js:20:14:20:50 | [req.pa ... tatic"] |
+| TaintedPath.js:20:15:20:34 | req.params.userinput | TaintedPath.js:20:14:20:50 | [req.pa ... tatic"] |
+| TaintedPath.js:20:15:20:34 | req.params.userinput | TaintedPath.js:20:14:20:50 | [req.pa ... tatic"] |
+| TaintedPath.js:20:15:20:34 | req.params.userinput | TaintedPath.js:20:14:20:50 | [req.pa ... tatic"] |
+| TaintedPath.js:20:15:20:34 | req.params.userinput | TaintedPath.js:20:14:20:50 | [req.pa ... tatic"] |
+| TaintedPath.js:20:15:20:34 | req.params.userinput | TaintedPath.js:20:14:20:50 | [req.pa ... tatic"] |
+| TaintedPath.js:20:15:20:34 | req.params.userinput | TaintedPath.js:20:14:20:50 | [req.pa ... tatic"] |
+| TaintedPath.js:20:15:20:34 | req.params.userinput | TaintedPath.js:20:14:20:50 | [req.pa ... tatic"] |
+| TaintedPath.js:20:15:20:34 | req.params.userinput | TaintedPath.js:20:14:20:50 | [req.pa ... tatic"] |
+| TaintedPath.js:20:15:20:34 | req.params.userinput | TaintedPath.js:20:14:20:50 | [req.pa ... tatic"] |
+| TaintedPath.js:20:15:20:34 | req.params.userinput | TaintedPath.js:20:14:20:50 | [req.pa ... tatic"] |
+| TaintedPath.js:20:15:20:34 | req.params.userinput | TaintedPath.js:20:14:20:50 | [req.pa ... tatic"] |
+| TaintedPath.js:20:15:20:34 | req.params.userinput | TaintedPath.js:20:14:20:50 | [req.pa ... tatic"] |
+| TaintedPath.js:20:15:20:34 | req.params.userinput | TaintedPath.js:20:14:20:50 | [req.pa ... tatic"] |
+| TaintedPath.js:20:15:20:34 | req.params.userinput | TaintedPath.js:20:14:20:50 | [req.pa ... tatic"] |
+| TaintedPath.js:20:15:20:34 | req.params.userinput | TaintedPath.js:20:14:20:50 | [req.pa ... tatic"] |
+| TaintedPath.js:20:15:20:34 | req.params.userinput | TaintedPath.js:20:14:20:50 | [req.pa ... tatic"] |
+| TaintedPath.js:20:15:20:34 | req.params.userinput | TaintedPath.js:20:14:20:50 | [req.pa ... tatic"] |
+| TaintedPath.js:20:15:20:34 | req.params.userinput | TaintedPath.js:20:14:20:50 | [req.pa ... tatic"] |
+| TaintedPath.js:20:15:20:34 | req.params.userinput | TaintedPath.js:20:14:20:50 | [req.pa ... tatic"] |
+| TaintedPath.js:20:15:20:34 | req.params.userinput | TaintedPath.js:20:14:20:50 | [req.pa ... tatic"] |
+| TaintedPath.js:20:15:20:34 | req.params.userinput | TaintedPath.js:20:14:20:50 | [req.pa ... tatic"] |
+| TaintedPath.js:20:15:20:34 | req.params.userinput | TaintedPath.js:20:14:20:50 | [req.pa ... tatic"] |
+| TaintedPath.js:20:15:20:34 | req.params.userinput | TaintedPath.js:20:14:20:50 | [req.pa ... tatic"] |
+| TaintedPath.js:20:15:20:34 | req.params.userinput | TaintedPath.js:20:14:20:50 | [req.pa ... tatic"] |
+| TaintedPath.js:20:15:20:34 | req.params.userinput | TaintedPath.js:20:14:20:50 | [req.pa ... tatic"] |
+| TaintedPath.js:20:15:20:34 | req.params.userinput | TaintedPath.js:20:14:20:50 | [req.pa ... tatic"] |
+| TaintedPath.js:20:15:20:34 | req.params.userinput | TaintedPath.js:20:14:20:50 | [req.pa ... tatic"] |
+| TaintedPath.js:20:15:20:34 | req.params.userinput | TaintedPath.js:20:14:20:50 | [req.pa ... tatic"] |
+| TaintedPath.js:20:15:20:34 | req.params.userinput | TaintedPath.js:20:14:20:50 | [req.pa ... tatic"] |
+| TaintedPath.js:20:15:20:34 | req.params.userinput | TaintedPath.js:20:14:20:50 | [req.pa ... tatic"] |
+| TaintedPath.js:20:15:20:34 | req.params.userinput | TaintedPath.js:20:14:20:50 | [req.pa ... tatic"] |
+| TaintedPath.js:20:15:20:34 | req.params.userinput | TaintedPath.js:20:14:20:50 | [req.pa ... tatic"] |
+| TaintedPath.js:20:15:20:34 | req.params.userinput | TaintedPath.js:20:14:20:50 | [req.pa ... tatic"] |
+| TaintedPath.js:20:15:20:34 | req.params.userinput | TaintedPath.js:20:14:20:50 | [req.pa ... tatic"] |
+| TaintedPath.js:20:15:20:34 | req.params.userinput | TaintedPath.js:20:14:20:50 | [req.pa ... tatic"] |
+| TaintedPath.js:20:15:20:34 | req.params.userinput | TaintedPath.js:20:14:20:50 | [req.pa ... tatic"] |
+#select
+| TaintedPath.js:9:42:9:61 | req.params.userinput | TaintedPath.js:9:42:9:61 | req.params.userinput | TaintedPath.js:9:42:9:61 | req.params.userinput | This path depends on a $@. | TaintedPath.js:9:42:9:61 | req.params.userinput | user-provided value |
+| TaintedPath.js:18:14:18:33 | req.params.userinput | TaintedPath.js:18:14:18:33 | req.params.userinput | TaintedPath.js:18:14:18:33 | req.params.userinput | This path depends on a $@. | TaintedPath.js:18:14:18:33 | req.params.userinput | user-provided value |
+| TaintedPath.js:20:14:20:50 | [req.pa ... tatic"] | TaintedPath.js:20:15:20:34 | req.params.userinput | TaintedPath.js:20:14:20:50 | [req.pa ... tatic"] | This path depends on a $@. | TaintedPath.js:20:15:20:34 | req.params.userinput | user-provided value |
